@@ -1,0 +1,44 @@
+{
+  "labels": [
+    "coding",
+    "writing",
+    "research",
+    "math",
+    "data_analysis",
+    "creative",
+    "planning",
+    "summarization",
+    "editing",
+    "brainstorming",
+    "qa",
+    "other"
+  ],
+  "label2id": {
+    "coding": 0,
+    "writing": 1,
+    "research": 2,
+    "math": 3,
+    "data_analysis": 4,
+    "creative": 5,
+    "planning": 6,
+    "summarization": 7,
+    "editing": 8,
+    "brainstorming": 9,
+    "qa": 10,
+    "other": 11
+  },
+  "id2label": {
+    "0": "coding",
+    "1": "writing",
+    "2": "research",
+    "3": "math",
+    "4": "data_analysis",
+    "5": "creative",
+    "6": "planning",
+    "7": "summarization",
+    "8": "editing",
+    "9": "brainstorming",
+    "10": "qa",
+    "11": "other"
+  }
+}
